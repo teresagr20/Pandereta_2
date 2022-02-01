@@ -1,2 +1,2 @@
-# Pandereta_2
-Pandereta is an automatic computacional pipeline for the ChIP-seq data. 
+# ChIP-seq_automatic_pipeline
+This is an automatic computacional pipeline for the ChIP-seq data. 
